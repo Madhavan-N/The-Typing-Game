@@ -32,6 +32,6 @@
   },
   "homepage": "https://madhavan-n.github.io/The-Typing-Game",
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
